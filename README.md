@@ -3,10 +3,10 @@
 
 My name is Samira. I am a staff facilities professional. I specialize in improving *energy efficiency* and *building enclosures*.
 
-
+---
 ### MY Hobby
 
----
+
 My two most enjoy hobbies are:
 - Baking
 - Painting
